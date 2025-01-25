@@ -1,6 +1,6 @@
 # Hello, I'm GoodCoderType 👋
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=GoodCoderType.profile)
+![Profile views](https://komarev.com/ghpvc/?username=GoodCoderType&style=flat-square)
 
 ![GitHub followers](https://img.shields.io/github/followers/GoodCoderType?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/GoodCoderType?style=social)
