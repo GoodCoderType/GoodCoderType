@@ -11,7 +11,7 @@ I am the owner and developer of [Raftar.xyz](https://raftar.xyz), specializing i
 
 - 🌱 I’m currently expanding my knowledge in **Web Development** and **Python**
 - 📫 How to reach me: [Discord](https://discord.com/users/goodgamerback)
-- ⚡ Fun fact: I have a diverse set of skills, though I sometimes lose track of just how many I have!
+- ⚡ Fun fact: I have a diverse set of skills, though I sometimes lose track of just how many I have! (Not sure)
 
 ## My Skills
 
@@ -27,8 +27,11 @@ I am the owner and developer of [Raftar.xyz](https://raftar.xyz), specializing i
 ### Tools & Technologies
 - Git & GitHub
 - Data Management
-- Cloud Hostings
-- Ai
+- Cloud Hostings | Vps
+- Ai/ML
+- Automation | Bots
+- Integrations
+  
 
 ## GitHub Stats
 
@@ -38,8 +41,7 @@ I am the owner and developer of [Raftar.xyz](https://raftar.xyz), specializing i
 
 ## Connect with Me
 
-[![Raftar.xyz Support Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/raftar)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goodcodertype)  
+[![Raftar.xyz Support Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/userapp)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/goodcodertype)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/goodcodertype1)  
 
